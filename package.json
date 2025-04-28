@@ -1,0 +1,20 @@
+{
+  "name": "taskboard",
+  "version": "0.0.1",
+  "description": "command-line task management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "usman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "mysql": "^2.18.1",
+    "pg-promise": "^11.13.0",
+    "promise": "^8.3.0"
+  }
+}
